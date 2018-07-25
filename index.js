@@ -33,7 +33,7 @@ const returnFirstTwoDrivers = function (drivers){
   
   const selectDifferentDrivers = function(arr, returnLastTwoDrivers){
     
-    return
+    return returnLastTwoDrivers(arr);
   }
   
   
