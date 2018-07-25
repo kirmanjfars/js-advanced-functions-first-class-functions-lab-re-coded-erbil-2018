@@ -22,7 +22,11 @@ const returnFirstTwoDrivers = function (drivers){
          return num * num;
        };
   }
-  
+   
+  const fareDoubler() = function(){
+        
+  }
+   
   
   
   
