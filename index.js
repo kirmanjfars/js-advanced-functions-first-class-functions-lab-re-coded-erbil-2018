@@ -3,7 +3,7 @@
 let drivers = ['kirmanj', 'fars', 'web', 'recoded'];
 
 
-const returnFirstTwoDrivers = Function (drivers){
+const returnFirstTwoDrivers = function (drivers){
     
     return drivers.slice(0,2);
   }
