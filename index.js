@@ -27,8 +27,8 @@ const returnFirstTwoDrivers = function (drivers){
         return num + num;
   }
    
-  const fareDoubler = function (num){
-        return num + num;
+  const fareTripler = function (num){
+        return num + num+num;
   }
   
   
