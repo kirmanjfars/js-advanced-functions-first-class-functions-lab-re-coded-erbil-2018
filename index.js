@@ -23,7 +23,7 @@ const returnFirstTwoDrivers = function (drivers){
        };
   }
    
-  const fareDoubler = function(func){
+  const fareDoubler = function (func){
         const num; 
         
         return func(num);
