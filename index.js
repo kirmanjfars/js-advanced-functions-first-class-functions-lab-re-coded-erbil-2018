@@ -18,7 +18,9 @@ const returnFirstTwoDrivers = function (drivers){
   
 
   const createFareMultiplier = function(num){
-       return num^4;
+       return function(){
+         return num * num;
+       };
   }
   
   
