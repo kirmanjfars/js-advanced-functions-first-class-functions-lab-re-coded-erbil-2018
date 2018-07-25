@@ -31,6 +31,8 @@ const returnFirstTwoDrivers = function (drivers){
         return num + num+num;
   }
   
+  const selectDifferentDrivers = 
+  
   
   
   
