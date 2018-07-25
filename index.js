@@ -4,6 +4,6 @@ let drivers = ['kirmanj', 'fars', 'web', 'recoded']
 
 
 const returnFirstTwoDrivers = Function (drivers){
-    arr1= arr.slice(0,2);
-    return arr1;
+    
+    return drivers.slice(0,2);
   }
