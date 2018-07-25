@@ -14,6 +14,6 @@ const returnFirstTwoDrivers = function (drivers){
   }
   
   
-  
+  const selectingDrivers= [returnFirstTwoDrivers, returnLastTwoDrivers];
   // const selectingDrivers= 
 
