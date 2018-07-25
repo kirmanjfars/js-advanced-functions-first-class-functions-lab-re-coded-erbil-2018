@@ -24,11 +24,12 @@ const returnFirstTwoDrivers = function (drivers){
   }
    
   const fareDoubler = function (num){
-    
         return num + num;
-        
   }
    
+  const fareDoubler = function (num){
+        return num + num;
+  }
   
   
   
